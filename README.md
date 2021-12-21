@@ -1,4 +1,4 @@
-<h1>Jroge Júnior</h1>
+<h1>Jorge Júnior</h1>
 
 <a href="https://www.linkedin.com/in/fco-jorge-m-junior/">
   <img src="https://img.shields.io/badge/Jorge%20%20Junior-%230A66C2?logo=Linkedin&style=flat-square" />
@@ -18,10 +18,9 @@
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=gray">
     <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=TypeScript&style=for-the-badge&logoColor=white">
     <img src="https://img.shields.io/badge/ReactJS-%2320232A?logo=React&style=for-the-badge&logoColor=lightBlue">
-    <img src="https://img.shields.io/badge/React Native-%2320232A?logo=React&style=for-the-badge&logoColor=lightBlue">
     <img src="https://img.shields.io/badge/Flutter-%23075B9A?logo=Flutter&style=for-the-badge&logoColor=white">    
     <img src="https://img.shields.io/badge/Dart-%231C2834?logo=Dart&style=for-the-badge&logoColor=blue">
 </div><br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgejunior618&layout=compact&theme=radical&show_icons=true)" height="170">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgejunior618&layout=compact&theme=radical&show_icons=true?exclude_repo=projetoFaturas,bikcraft)" height="170">
 </div>
